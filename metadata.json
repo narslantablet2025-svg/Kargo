@@ -1,0 +1,6 @@
+{
+  "name": "Kargo Takibi",
+  "description": "Kargolarınızın takibini kolayca yapın, teslim edilenleri tek tıkla arşivleyin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
